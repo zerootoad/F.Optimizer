@@ -43,7 +43,7 @@ if not exist "%folder%\ClientSettings" (
 echo Downloading the essential configuration file...
 
 REM Utilizing PowerShell to fetch the necessary file
-powershell.exe -Command "& { (New-Object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/FrancescoTheToad/F.Optimizer/main/client settings/ClientAppSettings.json', '%folder%\ClientSettings\ClientAppSettings.json') }"
+powershell.exe -Command "& { (New-Object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/FrancescoTheToad/F.Optimizer/main/modifications/ClientSettings/ClientAppSettings.json', '%folder%\ClientSettings\ClientAppSettings.json') }"
 
 REM Verify the download's success using the exit code
 if !errorlevel! EQU 0 (
