@@ -31,7 +31,7 @@
   "DFFlagDisableDPIScale": true,
   "DFFlagTextureQualityOverrideEnabled": true,
   "DFIntTextureQualityOverride": 0,
-  "DFIntTaskSchedulerTargetFps": "999",
+  "DFIntTaskSchedulerTargetFps": "9999",
   "FFlagEnableQuickGameLaunch": true,
   "FFlagHandleAltEnterFullscreenManually": false,
   "FFlagFixGraphicsQuality": true,
