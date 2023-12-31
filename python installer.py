@@ -120,6 +120,11 @@ def install(folder):
 
 def uninstall(folder):
     installer_path = os.path.join(folder, "RobloxPlayerInstaller.exe")
+    config_file_path = os.path.join(folder, "ClientSettings", "ClientAppSettings.json")
+    if os.path.exists(config_file_path):
+        os.remove(config_file_path)
+        print("Configuration file removed successfully!\n")
+
     if os.path.exists(installer_path):
         print("Running RobloxInstaller.exe...")
         subprocess.run([installer_path])
