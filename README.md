@@ -7,6 +7,7 @@ Francesco Optimizer is a performance optimization tool for Roblox that enhances 
 - Improved Performance: Francesco Optimizer fine-tunes various settings to maximize performance on your Roblox games.
 - Easy Installation: The optimizer can be easily installed with just a few clicks.
 - Quick Uninstaller: Uninstall Francesco Optimizer effortlessly when you no longer need it.
+- Old gaming experience: Adds old roblox sounds and retro cursor.
 
 # Installation
 
