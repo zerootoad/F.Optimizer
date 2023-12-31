@@ -1,6 +1,6 @@
 # Francesco Optimizer
 
-Francesco Optimizer is a performance optimization tool for Roblox that enhances your gaming experience by optimizing settings and configurations.
+Francesco Optimizer is a performance optimization tool for Roblox that enhances your gaming experience by optimizing settings and configurations, also adds back old sounds and changes the cursor on roblox.
 
 # Features
 
