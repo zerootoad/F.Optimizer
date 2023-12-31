@@ -12,6 +12,7 @@ Francesco Optimizer is a performance optimization tool for Roblox that enhances 
 # Installation
 
 - Download the latest release from the Francesco Optimizer GitHub repository.
+- https://github.com/FrancescoTheToad/F.Optimizer/releases/tag/roblox
 - After the installation, open the ".exe".
 
 # Usage
