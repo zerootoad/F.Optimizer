@@ -4,6 +4,7 @@ import glob
 import subprocess
 import time
 
+
 def next_step(folder):
     while True:
         print("Choose an option:")
