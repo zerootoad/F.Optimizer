@@ -20,8 +20,8 @@ Francesco Optimizer is a performance optimization tool for Roblox that enhances 
 
 # Uninstallation
 
-- Execute the uninstaller script to remove Francesco Optimizer.
-- All optimizations will be reverted to their original settings.
+- Use the uninstall option to remove Francesco Optimizer.
+- All optimizations and changes will be reverted to their original settings.
 
 # Contributions
 
