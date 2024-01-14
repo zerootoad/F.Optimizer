@@ -1,8 +1,6 @@
 {
   "FFlagOptimizeMouseLockState": true,
   "DFStringSchedulerRemoveWorkers": "Auto",
-  "DFStringRenderFramerateManagerMode": "Automatic",
-  "DFIntRenderFramerateManagerTargetFps": 240,
   "DFStringPhysicsSolver": "RK4",
   "DFIntPhysicsSolverMaxCSteps": 3,
   "DFIntPhysicsSolverMaxDSteps": 2,
@@ -14,6 +12,7 @@
   "DFIntPhysicsSolverMinVSteps": 1,
   "DFIntPhysicsSolverMaxSubSteps": 6,
   "DFIntPhysicsSolverMaxResets": 3,
+  "DFIntPhysicsSolverMaxTime": 0.0167,
   "FFlagOptimizePhysicsStepper": true,
   "FFlagOptimizePhysicsSolver": true,
   "FFlagOptimizePhysicsSweep": true,
@@ -164,3 +163,4 @@
   "DFStringProfilerFlamegraphColumnSort": "ExclusiveTime",
   "FFlagEnableProfilerMoreInfoInSummary": true
 }
+
