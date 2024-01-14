@@ -79,6 +79,8 @@
   "DFFlagDynamicDomainPropertyLoading": true,
   "DFIntNumDecomposeRunTilLimit": 50,
   "DFFlagForceNetworkAsync": true,
+  "FFlagDebugGraphicsPreferVulkan":true,
+  "FFlagDebugGraphicsDisableDirect3D11":true,
   "FFlagDebugGraphicsPreferVulkan": true,
   "DFFlagDebugRenderForceTechnologyVoxel": true,
   "DFFlagDisableDPIScale": true,
